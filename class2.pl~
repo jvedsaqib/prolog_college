@@ -1,0 +1,2 @@
+owns(john, book(abc, author(def))).
+owns(mary, book(abc, author(def))).
