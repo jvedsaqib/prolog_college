@@ -1,7 +1,63 @@
-ordered([_]) :-
-    !.
+/*
+ordered([_],0):-!.
+ordered([X,Y],0):-X=<Y.
+ordered([X,Y],L):-X>Y,xsort([X,Y],L).
+ordered([X,Y|Z],L):-X=<Y,ordered([Y|Z],L).
+ordered([X,Y|Z],L):-X>Y,xsort([X,Y|Z],L).
+xsort([X,Y],[Y,X]):-
+    X>Y.
+xsort([X,Y],[X,Y]):-
+    X=<Y.
 
-ordered([X,Y|Z]) :-
-    X =< Y,
-    ordered([Y|Z).
+xsort([X,Y|Z],L):-
+    X>Y,
+    xsort([Y,X|Z],L).
+xsort([X,Y|Z],[X,Y|Z]):-
+    X=<Y.
+*/
 
+
+/*
+ordered([_]):-!.
+ordered([X]) :- write(X), !.
+ordered([X,Y|Z]):-
+    X=<Y,ordered([Y|Z]),
+    write('normal '),
+    write(X),
+    write('\n').
+ordered([X,Y|Z]):-
+    X>Y, Y1 is Y,
+    ordered([Y,X|Z]),
+    write('creep '),
+    write(Y1),
+    write('\n').
+
+*/
+checkList(L):-
+    write('Given List'),
+    write(L),
+    write('\n'),
+    xsort(L,L1),
+    write(L1),!.
+
+
+/*
+    checkList(L,L):-
+    write('b'),
+    write(L),
+    xsort(L,L),
+    write(L).
+*/
+
+xsort([X,Y],[Y,X]):-
+    X>Y,!.
+xsort([X,Y],[X,Y]):-
+    X=<Y,!.
+
+xsort([X,Y|Z],[Y|L1]):-
+    X>Y,
+    xsort([X|Z],L1).
+
+xsort([X,Y|Z],[X|L1]):-
+    X=<Y,
+    xsort([Y|Z],L1).
