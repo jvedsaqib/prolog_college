@@ -8,3 +8,5 @@ Practice prolog programs
 2 - [Armstrong Number](https://github.com/jvedsaqib/prolog_college/blob/master/armstrong.pl)
 
 3 - [DFA](https://github.com/jvedsaqib/prolog_college/blob/master/dfa.pl)
+
+4 - [Even Odd](https://github.com/jvedsaqib/prolog_college/blob/master/even_odd.pl)
