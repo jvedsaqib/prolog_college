@@ -12,3 +12,5 @@ Practice prolog programs
 4 - [Even Odd](https://github.com/jvedsaqib/prolog_college/blob/master/even_odd.pl)
 
 5 - [Exactly two elements in a List](https://github.com/jvedsaqib/prolog_college/blob/master/exactly_two.pl)
+
+6 - [Fibonacci](https://github.com/jvedsaqib/prolog_college/blob/master/fibo.pl)
