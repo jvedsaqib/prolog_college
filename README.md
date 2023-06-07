@@ -14,3 +14,5 @@ Practice prolog programs
 5 - [Exactly two elements in a List](https://github.com/jvedsaqib/prolog_college/blob/master/exactly_two.pl)
 
 6 - [Fibonacci](https://github.com/jvedsaqib/prolog_college/blob/master/fibo.pl)
+
+7 - [GCD](https://github.com/jvedsaqib/prolog_college/blob/master/gcd.pl)
