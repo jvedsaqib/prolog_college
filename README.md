@@ -16,3 +16,5 @@ Practice prolog programs
 6 - [Fibonacci](https://github.com/jvedsaqib/prolog_college/blob/master/fibo.pl)
 
 7 - [GCD](https://github.com/jvedsaqib/prolog_college/blob/master/gcd.pl)
+
+8 - [GCD of a list](https://github.com/jvedsaqib/prolog_college/blob/master/gcd_list.pl)
