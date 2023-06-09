@@ -18,3 +18,5 @@ Practice prolog programs
 7 - [GCD](https://github.com/jvedsaqib/prolog_college/blob/master/gcd.pl)
 
 8 - [GCD of a list](https://github.com/jvedsaqib/prolog_college/blob/master/gcd_list.pl)
+
+9 - [Last element of a list](https://github.com/jvedsaqib/prolog_college/blob/master/last_elem.pl)
