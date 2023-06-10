@@ -20,3 +20,5 @@ Practice prolog programs
 8 - [GCD of a list](https://github.com/jvedsaqib/prolog_college/blob/master/gcd_list.pl)
 
 9 - [Last element of a list](https://github.com/jvedsaqib/prolog_college/blob/master/last_elem.pl)
+
+10 - [List Concatenation](https://github.com/jvedsaqib/prolog_college/blob/master/list_concat.pl)
