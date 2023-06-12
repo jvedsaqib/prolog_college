@@ -24,3 +24,5 @@ Practice prolog programs
 10 - [List Concatenation](https://github.com/jvedsaqib/prolog_college/blob/master/list_concat.pl)
 
 11 - [List Element](https://github.com/jvedsaqib/prolog_college/blob/master/list_elem.pl)
+
+12 - [Length of a list](https://github.com/jvedsaqib/prolog_college/blob/master/list_length.pl)
