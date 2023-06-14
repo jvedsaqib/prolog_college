@@ -29,4 +29,4 @@ Practice prolog programs
 
 13 - [List Member](https://github.com/jvedsaqib/prolog_college/blob/master/list_member.pl)
 
-
+14 - [List Traversal](https://github.com/jvedsaqib/prolog_college/blob/master/list_traversal.pl)
