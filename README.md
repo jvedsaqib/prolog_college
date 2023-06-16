@@ -32,3 +32,6 @@ Practice prolog programs
 14 - [List Traversal](https://github.com/jvedsaqib/prolog_college/blob/master/list_traversal.pl)
 
 15 - [List max element](https://github.com/jvedsaqib/prolog_college/blob/master/max_list.pl)
+
+16 - [List min element](https://github.com/jvedsaqib/prolog_college/blob/master/min_list.pl)
+
