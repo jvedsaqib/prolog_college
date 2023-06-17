@@ -35,3 +35,4 @@ Practice prolog programs
 
 16 - [List min element](https://github.com/jvedsaqib/prolog_college/blob/master/min_list.pl)
 
+17 - [NFA](https://github.com/jvedsaqib/prolog_college/blob/master/nfa.pl)
