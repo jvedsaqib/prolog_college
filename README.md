@@ -38,3 +38,6 @@ Practice prolog programs
 17 - [NFA](https://github.com/jvedsaqib/prolog_college/blob/master/nfa.pl)
 
 18 - [Ordered List](https://github.com/jvedsaqib/prolog_college/blob/master/ordered_list.pl)
+
+19 - [Positive Negative or Zero](https://github.com/jvedsaqib/prolog_college/blob/master/pos%20neg%20or%20zero.pl)
+
