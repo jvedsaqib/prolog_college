@@ -41,3 +41,4 @@ Practice prolog programs
 
 19 - [Positive Negative or Zero](https://github.com/jvedsaqib/prolog_college/blob/master/pos%20neg%20or%20zero.pl)
 
+20 - [Prime Number](https://github.com/jvedsaqib/prolog_college/blob/master/prime.pl)
