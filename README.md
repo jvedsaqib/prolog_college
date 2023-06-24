@@ -46,3 +46,5 @@ Practice prolog programs
 21 - [Remove element from a list](https://github.com/jvedsaqib/prolog_college/blob/master/remove_element_list.pl)
 
 22 - [Reverse a list](https://github.com/jvedsaqib/prolog_college/blob/master/rev_list.pl)
+
+23 - [Square Sum](https://github.com/jvedsaqib/prolog_college/blob/master/square_sum.pl)
