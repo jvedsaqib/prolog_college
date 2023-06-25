@@ -48,3 +48,5 @@ Practice prolog programs
 22 - [Reverse a list](https://github.com/jvedsaqib/prolog_college/blob/master/rev_list.pl)
 
 23 - [Square Sum](https://github.com/jvedsaqib/prolog_college/blob/master/square_sum.pl)
+
+24 - [Sum of digits](https://github.com/jvedsaqib/prolog_college/blob/master/sumOfDigits.pl)
