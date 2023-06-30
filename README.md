@@ -52,3 +52,6 @@ Practice prolog programs
 24 - [Sum of digits](https://github.com/jvedsaqib/prolog_college/blob/master/sumOfDigits.pl)
 
 25 - [Facts related](https://github.com/jvedsaqib/prolog_college/blob/master/var.pl)
+
+26 - [Square of a number](https://github.com/jvedsaqib/prolog_college/blob/master/square_number.pl)
+
