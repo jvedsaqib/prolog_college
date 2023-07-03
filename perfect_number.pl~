@@ -1,0 +1,25 @@
+% Predicate to check if a number is a perfect number
+is_perfect(Number) :-
+    Number > 0, % Ensuring the number is positive
+    sum_of_divisors(Number, Sum),
+    Number =:= Sum.
+
+% Helper predicate to calculate the sum of divisors of a number
+sum_of_divisors(Number, Sum) :-
+    Number > 0,
+    Sum is 0,
+    calculate_sum_of_divisors(Number, 1, Sum).
+
+calculate_sum_of_divisors(Number, Divisor, Sum) :-
+    Divisor > Number // 2, % Stop condition
+    Sum is 0. % No divisors found, sum is 0
+
+calculate_sum_of_divisors(Number, Divisor, Sum) :-
+    Number mod Divisor =:= 0, % Divisor is a factor
+    NextDivisor is Divisor + 1,
+    calculate_sum_of_divisors(Number, NextDivisor, TempSum),
+    Sum is TempSum + Divisor.
+
+calculate_sum_of_divisors(Number, Divisor, Sum) :-
+    NextDivisor is Divisor + 1,
+    calculate_sum_of_divisors(Number, NextDivisor, Sum).
