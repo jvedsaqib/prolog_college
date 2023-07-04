@@ -56,3 +56,5 @@ Practice prolog programs
 26 - [Square of a number](https://github.com/jvedsaqib/prolog_college/blob/master/square_number.pl)
 
 27 - [Logical AND OR](https://github.com/jvedsaqib/prolog_college/blob/master/logical_and_or.pl)
+
+28 - [Perfect Number](https://github.com/jvedsaqib/prolog_college/blob/master/perfect_number.pl)
