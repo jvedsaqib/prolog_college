@@ -58,3 +58,6 @@ Practice prolog programs
 27 - [Logical AND OR](https://github.com/jvedsaqib/prolog_college/blob/master/logical_and_or.pl)
 
 28 - [Perfect Number](https://github.com/jvedsaqib/prolog_college/blob/master/perfect_number.pl)
+
+29 - [List in words](https://github.com/jvedsaqib/prolog_college/blob/master/list_in_words.pl)
+
