@@ -62,3 +62,5 @@ Practice prolog programs
 29 - [List in words](https://github.com/jvedsaqib/prolog_college/blob/master/list_in_words.pl)
 
 30 - [List Permutation](https://github.com/jvedsaqib/prolog_college/blob/master/list_permutation.pl)
+
+31 - [List duplicate elements](https://github.com/jvedsaqib/prolog_college/blob/master/list_nodoubles.pl)
