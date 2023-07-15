@@ -64,3 +64,6 @@ Practice prolog programs
 30 - [List Permutation](https://github.com/jvedsaqib/prolog_college/blob/master/list_permutation.pl)
 
 31 - [List duplicate elements](https://github.com/jvedsaqib/prolog_college/blob/master/list_nodoubles.pl)
+
+32 - [List Palindrome](https://github.com/jvedsaqib/prolog_college/blob/master/list_palindrome.pl)
+
