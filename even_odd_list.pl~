@@ -1,0 +1,7 @@
+evenLength([]).
+evenLength([First | Rest]) :-
+	oddLength(Rest).
+
+oddLength([_]).
+oddLength([First | Rest]) :-
+	evenLength(Rest).
