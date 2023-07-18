@@ -67,3 +67,5 @@ Practice prolog programs
 
 32 - [List Palindrome](https://github.com/jvedsaqib/prolog_college/blob/master/list_palindrome.pl)
 
+33 - [List Even Odd](https://github.com/jvedsaqib/prolog_college/blob/master/even_odd_list.pl)
+
