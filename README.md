@@ -69,3 +69,5 @@ Practice prolog programs
 
 33 - [List Even Odd](https://github.com/jvedsaqib/prolog_college/blob/master/even_odd_list.pl)
 
+34 - [List Shift Elements](https://github.com/jvedsaqib/prolog_college/blob/master/list_shift.pl)
+
