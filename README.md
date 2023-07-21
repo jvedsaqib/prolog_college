@@ -71,3 +71,5 @@ Practice prolog programs
 
 34 - [List Shift Elements](https://github.com/jvedsaqib/prolog_college/blob/master/list_shift.pl)
 
+35 - [Fuzzy Complement](https://github.com/jvedsaqib/prolog_college/blob/master/fuzzy%20complement.pl)
+
