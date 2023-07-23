@@ -1,5 +1,4 @@
-# Prolog_College_Practicals
-Practice prolog programs 
+# Prolog_College_Practicals 
 
 ## Program lists :
 
