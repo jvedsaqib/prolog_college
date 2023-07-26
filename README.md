@@ -74,3 +74,4 @@ Prolog practice programs
 
 35 - [Fuzzy Complement](https://github.com/jvedsaqib/prolog_college/blob/master/fuzzy%20complement.pl)
 
+36 - [Fuzzy Union](https://github.com/jvedsaqib/prolog_college/blob/master/fuzzy%20union.pl)
