@@ -1,4 +1,5 @@
 # Prolog_College_Practicals 
+practical 
 
 ## Program lists :
 
