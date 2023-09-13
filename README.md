@@ -1,4 +1,5 @@
-# Prolog_College_Practicals 
+# Prolog_College_Practicals
+
 ## Program lists :
 
 1 - [4-Queen](https://github.com/jvedsaqib/prolog_college/blob/master/4Queen.pl)
